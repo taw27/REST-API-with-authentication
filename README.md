@@ -14,8 +14,6 @@ In addition, the project require users to create an account and log-in to make c
 
 Key technologies used: Node.js, Express.js, bcryptjs, Express Validator, SQLite and sequelizejs.
 
-**Note: this project is under progress**
-
 ## Overview of Project Files Provided by Tree House
 
 Some of the important files provided by Tree House to aid in the project has been noted below:
